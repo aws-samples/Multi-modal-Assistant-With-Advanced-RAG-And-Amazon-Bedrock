@@ -1,0 +1,6 @@
+sagemaker
+boto3
+botocore
+transformers
+datasets[s3]
+datasets
